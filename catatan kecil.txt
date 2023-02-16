@@ -2,8 +2,8 @@ Rencana saya selama perkuliahan nanti:
 
 - Ngoding sudah pasti
 - Belajar bahasa pemrograman
-  -> Java
-  -> C++
   -> Kotlin
+  -> Pascal
+  -> JavaScript
 
 - dan belajar matematika
